@@ -1,0 +1,7 @@
+.env
+build
+.reach
+reach
+.DS_Store
+payload.csv
+*.swp
