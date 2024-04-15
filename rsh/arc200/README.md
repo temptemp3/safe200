@@ -1,6 +1,6 @@
-# ARC200
+# SAFE200
 
-ERC20 like token on AVM (Algorand + Voi)
+Smart Wallet (AVM, ARC-200 Compatible)
 
 ## Have a question?
 
@@ -8,13 +8,9 @@ Let's talk.
 
 ## Changlog
 
-**31 Oct 2023**  
+**15 Apr 2024**
 
-- Full compliance with [Core Token Specification](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0200.md#core-token-specification)  
-- Allow overspend on mbr increase payment
-- Add nonstandard methods
-  - grant method to update manager
-  - touch method to recover untracked funds
+* Initial version, Smart wallet that holds network token and arc200 smart contract token controlled by a manager account
 
 ## Additional Information
 
